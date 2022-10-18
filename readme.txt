@@ -1,5 +1,6 @@
 Nama : Purwitasari
 Kode : 372
+Url Video : https://drive.google.com/drive/u/4/folders/1hMc53vXqJK6he4pKlrnWkSI1gmKLD2bw
 
 Langkah :
 1. Download github 372_Purwitasari_gob2_LiveSession
